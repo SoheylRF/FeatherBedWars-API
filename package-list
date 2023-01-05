@@ -1,9 +1,0 @@
-ir.feathermc.api
-ir.feathermc.api.entity
-ir.feathermc.api.enums
-ir.feathermc.api.event
-ir.feathermc.api.event.game
-ir.feathermc.api.event.npc
-ir.feathermc.api.event.player
-ir.feathermc.api.rank
-ir.feathermc.api.server
